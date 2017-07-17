@@ -1,4 +1,4 @@
-LOCAL_PATH := vendor/lge/ms50ds
+LOCAL_PATH := vendor/lg/ms50ds
 PRODUCT_COPY_FILES += \
 $(LOCAL_PATH)/system/lib/libril.so:system/lib/libril.so \
 $(LOCAL_PATH)/system/lib/gralloc.mt6582.so:system/lib/gralloc.mt6582.so \
